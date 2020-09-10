@@ -5,8 +5,7 @@ class DiceRolls{
 	Scanner input = new Scanner(System.in);
 
 	int rollings = 1;
-	char Y = '1';
-	char N = '2';
+
 	while(rollings == 1){
 
 
